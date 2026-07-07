@@ -19,3 +19,4 @@
 | --- | --- | --- |
 | 1 | 시간 복잡도 | [1_time_complexity](./1_time_complexity/concept.md) |
 | 2 | 디버깅 | [2_debugging](./2_debugging/concept.md) |
+| 3 | 배열과 리스트 | [3_array_and_list](./3_array_and_list/concept.md) |
